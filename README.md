@@ -1,6 +1,14 @@
 7.1.2020
 
+DIY ECG with AD8232 and Sound Card:
+
+.
+
 https://www.youtube.com/watch?v=sP_-f5nsOEo
+
+.
+
+Long Term EEG monitoring solution:
 
 https://www.youtube.com/watch?v=sEd-e5csuPM&t=2s
 
