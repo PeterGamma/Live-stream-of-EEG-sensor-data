@@ -5,12 +5,12 @@ https://www.youtube.com/watch?v=sP_-f5nsOEo
 https://www.youtube.com/watch?v=sEd-e5csuPM&t=2s
 
 
-.
-.
+..
+
 Alternative from Texas instruments for 8 - 32 Channels
 
-.
-.
+..
+
 
 ADS1299 Performance Demonstration Kit from Texas instruments:
 
