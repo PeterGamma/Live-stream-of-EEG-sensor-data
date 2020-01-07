@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=sP_-f5nsOEo
 
 ..
 
-Long Term EEG monitoring solution:
+Long Term EEG monitoring solution from Greentek Sensors:
 
 https://www.youtube.com/watch?v=sEd-e5csuPM&t=2s
 
