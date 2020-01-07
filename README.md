@@ -2,7 +2,6 @@
 
 DIY ECG with AD8232 and Sound Card:
 
-.
 
 https://www.youtube.com/watch?v=sP_-f5nsOEo
 
