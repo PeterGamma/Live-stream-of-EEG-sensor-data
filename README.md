@@ -5,6 +5,9 @@ https://www.youtube.com/watch?v=sP_-f5nsOEo
 https://www.youtube.com/watch?v=sEd-e5csuPM&t=2s
 
 
+.
+.
+
 
 ADS1299 Performance Demonstration Kit from Texas instruments:
 
