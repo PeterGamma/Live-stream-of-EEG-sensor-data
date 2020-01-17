@@ -21,16 +21,25 @@ https://www.youtube.com/channel/UCSioH-IHQPi-RiXXlWn8yuw
 
 
 Bennie Deng from Greentek Sensors commented on my question in this youtube video channel:
-.
+
+..
+
 https://www.youtube.com/channel/UCSioH-IHQPi-RiXXlWn8yuw
-.
+
+..
+
 Peter Gamma:
-.
+
+..
+
 «Can individual EEG sensors be obtained separately from a cap from Greentek Sensors to build up an EEG cap up a to 256 channels?»
 
-.
+..
+
 Bennie Deng from Greentek Sensors:
-.
+
+..
+
 «Yes, individual EEG sensors can be obtained from Greentek. With these sensors, you can build up your own EEG Cap up to 128 channels. For caps with 256 channels, our standard EEG sensors are too big.»
 
 ..
