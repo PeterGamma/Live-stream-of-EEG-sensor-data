@@ -7,12 +7,6 @@ https://www.youtube.com/watch?v=sP_-f5nsOEo
 
 ..
 
-Long Term EEG monitoring solution from Greentek Sensors:
-
-https://www.youtube.com/watch?v=sEd-e5csuPM&t=2s
-
-..
-
 Greentek Sensors has a solution even for the smallest child:
 
 ..
