@@ -1,18 +1,4 @@
-7.1.2020
-
-DIY ECG with AD8232 and Sound Card:
-
-
-https://www.youtube.com/watch?v=sP_-f5nsOEo
-
-..
-
-Greentek Sensors has a solution even for the smallest child:
-
-..
-
-https://www.youtube.com/channel/UCSioH-IHQPi-RiXXlWn8yuw
-
+https://openbci.com/forum/index.php?p=/discussion/comment/12696#Comment_12696
 ..
 
 Alternative from Texas instruments for 8 - 32 Channels:
