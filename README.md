@@ -1,4 +1,5 @@
 https://openbci.com/forum/index.php?p=/discussion/comment/12696#Comment_12696
+
 ..
 
 Alternative from Texas instruments for 8 - 32 Channels:
