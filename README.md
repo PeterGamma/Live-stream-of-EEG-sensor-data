@@ -1,3 +1,6 @@
+
+Greentek EEG Cap & sound card EEG devices:
+
 https://openbci.com/forum/index.php?p=/discussion/comment/12696#Comment_12696
 
 ..
