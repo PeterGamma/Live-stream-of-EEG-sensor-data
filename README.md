@@ -1,3 +1,8 @@
+Muse headband lab streaming layer (LSL):
+
+https://mind-monitor.com/forums/viewtopic.php?f=15&t=840
+
+..
 
 Greentek EEG Cap & sound card EEG devices:
 
