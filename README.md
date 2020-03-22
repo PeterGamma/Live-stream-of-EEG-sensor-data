@@ -40,8 +40,11 @@ https://www.researchgate.net/publication/332321992_Development_of_Electroencepha
 The ADS1299 Performance Demonstration Kit is low-cost, it has an easy-to-use evaluation software for Microsoft Windows, and it can be interfaced with MATLAB.
 .
 .
+
 Integration of the GARMIN watch into the Mind Monitor
+
 .
 .
+
 https://mind-monitor.com/forums/viewtopic.php?f=15&p=1825#p1825
 
