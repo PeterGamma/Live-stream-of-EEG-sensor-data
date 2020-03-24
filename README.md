@@ -41,11 +41,3 @@ The ADS1299 Performance Demonstration Kit is low-cost, it has an easy-to-use eva
 
 .
 .
-
-Integration of the GARMIN watch into the Mind Monitor
-
-.
-.
-
-https://mind-monitor.com/forums/viewtopic.php?f=15&p=1825#p1825
-
