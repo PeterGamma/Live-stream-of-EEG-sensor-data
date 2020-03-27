@@ -2,18 +2,12 @@ Muse headband lab streaming layer (LSL):
 
 https://mind-monitor.com/forums/viewtopic.php?f=15&t=840
 
-..
 
 Greentek EEG Cap & sound card EEG devices:
 
 https://openbci.com/forum/index.php?p=/discussion/comment/12696#Comment_12696
 
-..
-
 Alternative from Texas instruments for 8 - 32 Channels:
-
-..
-
 
 ADS1299 Performance Demonstration Kit from Texas instruments:
 
