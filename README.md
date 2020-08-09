@@ -24,7 +24,11 @@ The ADS1299 Performance Demonstration Kit is low-cost, it has an easy-to-use eva
 Muse headband lab streaming layer (LSL):
 
 https://mind-monitor.com/forums/viewtopic.php?f=15&t=840
-
+.
+.
+https://github.com/sccn/labstreaminglayer/issues/30
+.
+.
 
 EEGLAB running on a Pinephone?
 
