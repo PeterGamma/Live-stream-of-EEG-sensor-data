@@ -39,6 +39,7 @@ https://forum.pine64.org/showthread.php?tid=10893
 
 .
 .
+
 OpenBCI, Brainflow and Linux Pinephone?:
 
 .
