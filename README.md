@@ -36,3 +36,21 @@ https://github.com/sccn/labstreaminglayer/issues/30
 EEGLAB running on a Pinephone?
 
 https://forum.pine64.org/showthread.php?tid=10893
+
+.
+.
+OpenBCI, Brainflow and Linux Pinephone?:
+.
+.
+https://openbci.com/forum/index.php?p=/discussion/2692/does-the-openbci-software-run-on-arm64-based-device#latest
+
+
+
+
+
+
+
+
+
+
+
