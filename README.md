@@ -34,7 +34,7 @@ https://de.aliexpress.com/item/32606318948.html?spm=a2g0o.productlist.0.0.529214
 .
 .
 
-Bluesoleil Ubuntu (for instance for the Linux PinePhone)
+Bluesoleil Ubuntu (for instance for the Linux PinePhone):
 
 .
 .
