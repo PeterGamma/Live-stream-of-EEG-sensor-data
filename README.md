@@ -23,6 +23,27 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6630628/
 .
 .
 
+TGAM modues with Bluetooth Android App and Bluesoleil:
+
+.
+.
+
+https://de.aliexpress.com/item/32606318948.html?spm=a2g0o.productlist.0.0.529214c9dFto0P&s=p&ad_pvid=20200913214957176422413807000004428579_1&algo_pvid=9f35bae7-c8c5-4490-a496-7ecc6070584b&algo_expid=9f35bae7-c8c5-4490-a496-7ecc6070584b-0&btsid=0ab6f83116000589967501667e9b62&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+
+.
+.
+
+Bluesoleil Ubuntu (for instance for the Linux PinePhone)
+
+.
+.
+
+http://www.bluesoleil.com/support/Intro.aspx?topic=BlueSoleil_Ubuntu_help
+
+
+.
+.
+
 
 Alternative from Texas instruments for 8 - 32 Channels: ADS1299 Performance Demonstration Kit from Texas instruments:
 
