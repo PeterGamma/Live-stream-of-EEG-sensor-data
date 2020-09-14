@@ -5,14 +5,24 @@ https://openbci.com/forum/index.php?p=/discussion/comment/12696#Comment_12696
 .
 .
 
+TGAM Modul 
+.
+.
+
+https://de.aliexpress.com/item/32999922405.html?spm=a2g0o.productlist.0.0.1fab3457M9Lrgb&algo_pvid=3946cf89-920f-455f-976c-785c052fbe2e&algo_expid=3946cf89-920f-455f-976c-785c052fbe2e-0&btsid=0ab6fb8316000576624564074ea608&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+.
+.
+
 Validation of TGAM modules:
 
 .
 .
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6630628/
+
 .
 .
+
 
 Alternative from Texas instruments for 8 - 32 Channels: ADS1299 Performance Demonstration Kit from Texas instruments:
 
