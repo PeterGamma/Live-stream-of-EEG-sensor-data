@@ -2,6 +2,18 @@ Greentek EEG Cap & sound card EEG devices:
 
 https://openbci.com/forum/index.php?p=/discussion/comment/12696#Comment_12696
 
+.
+.
+
+Validation of TGAM modules:
+
+.
+.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6630628/
+.
+.
+
 Alternative from Texas instruments for 8 - 32 Channels: ADS1299 Performance Demonstration Kit from Texas instruments:
 
 http://www.ti.com/tool/ADS1299EEGFE-PDK
