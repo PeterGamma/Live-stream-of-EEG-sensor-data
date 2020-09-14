@@ -24,7 +24,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6630628/
 .
 .
 
-TGAM modues with Bluetooth Android App and Bluesoleil "with this kit you can make a wear BCI yourself":
+TGAM modues with Bluetooth Android App and Bluesoleil "with this kit you can make a wear BCI device yourself":
 
 .
 .
