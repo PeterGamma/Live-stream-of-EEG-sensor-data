@@ -77,7 +77,7 @@ https://e2e.ti.com/support/data-converters/f/73/p/940917/3476990#3476990
 .
 .
 
-The ADS1299 Kit contains the TI ADS1299 chip. Therefore, the data of the paper "comparison of Cyton with medical grade g.tec devices" hould also apply to the  ADS1299 Kit:
+The ADS1299 Kit contains the TI ADS1299 chip. Therefore, the data of the paper "comparison of Cyton with medical grade g.tec devices" should also apply to the  ADS1299 Kit:
 
 .
 .
