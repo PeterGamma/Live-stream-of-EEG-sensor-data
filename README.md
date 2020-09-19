@@ -66,7 +66,14 @@ The ADS1299 Performance Demonstration Kit is low-cost, it has an easy-to-use eva
 .
 .
 
-The use of the TI ADS1299 EEG Kit is limited:
+EEG data acquisition system 32 channels based on Raspberry Pi with relative power ratio and brain symmetry index features:
+
+https://www.researchgate.net/publication/337896178_EEG_data_acquisition_system_32_channels_based_on_Raspberry_Pi_with_relative_power_ratio_and_brain_symmetry_index_features
+
+.
+.
+
+Use of the TI ADS1299 EEG Kit:
 
 .
 .
