@@ -66,6 +66,18 @@ The ADS1299 Performance Demonstration Kit is low-cost, it has an easy-to-use eva
 .
 .
 
+The use of the ADS1299 Kit is limited:
+
+.
+.
+
+
+https://e2e.ti.com/support/data-converters/f/73/p/940917/3476990#3476990
+.
+.
+
+
+
 Muse headband lab streaming layer (LSL):
 
 https://mind-monitor.com/forums/viewtopic.php?f=15&t=840
