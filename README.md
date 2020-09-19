@@ -66,13 +66,23 @@ The ADS1299 Performance Demonstration Kit is low-cost, it has an easy-to-use eva
 .
 .
 
-The use of the ADS1299 Kit is limited:
+The use of the TI ADS1299 EEG Kit is limited:
 
 .
 .
 
 
 https://e2e.ti.com/support/data-converters/f/73/p/940917/3476990#3476990
+
+.
+.
+
+But why should the TI ADS1299 EEG not be save for humans:
+
+.
+.
+
+https://www.eevblog.com/forum/testgear/how-to-solve-the-ti-ads1299-eeg-demo-kit-is-not-save-for-humans-problem/
 
 .
 .
