@@ -73,10 +73,19 @@ The use of the ADS1299 Kit is limited:
 
 
 https://e2e.ti.com/support/data-converters/f/73/p/940917/3476990#3476990
+
 .
 .
 
+The ADS1299 Kit contains the TI ADS1299 chip. Therefore, the data of the paper "comparison of Cyton with medical grade g.tec devices" hould also apply to the  ADS1299 Kit:
 
+.
+.
+
+https://arxiv.org/pdf/1606.02438.pdf
+
+.
+.
 
 Muse headband lab streaming layer (LSL):
 
@@ -103,14 +112,5 @@ OpenBCI, Brainflow and Linux Pinephone?:
 .
 
 https://openbci.com/forum/index.php?p=/discussion/2692/does-the-openbci-software-run-on-arm64-based-device#latest
-
-
-
-
-
-
-
-
-
 
 
