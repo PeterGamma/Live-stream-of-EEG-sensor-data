@@ -84,7 +84,7 @@ https://e2e.ti.com/support/data-converters/f/73/p/940917/3476990#3476990
 .
 .
 
-Why should the TI ADS1299 EEG not be save for humans?:
+Safety of the TI ADS1299 EEG board:
 
 .
 .
