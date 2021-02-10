@@ -129,18 +129,23 @@ OpenBCI, Brainflow and Linux Pinephone?:
 https://openbci.com/forum/index.php?p=/discussion/2692/does-the-openbci-software-run-on-arm64-based-device#latest
 .
 .
+
 MUSE HEADBAND ALTERNATIVE:
 .
 .
+
 1. OpenBCI compatible EEG module:
 .
 .
+
 https://de.aliexpress.com/item/4000244594585.html?spm=a2g0s.9042311.0.0.27424c4d9gZnYN
 .
 .
+
 2. OpenBCI compatible EEG Headband:
 .
 .
+
 https://www.aliexpress.com/item/4000244979554.html?spm=a2g0s.9042311.0.0.27424c4d9gZnYN
 
 
