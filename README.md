@@ -154,3 +154,18 @@ https://de.aliexpress.com/item/4000244594585.html?spm=a2g0s.9042311.0.0.27424c4d
 .
 
 https://www.aliexpress.com/item/4000244979554.html?spm=a2g0s.9042311.0.0.27424c4d9gZnYN
+
+.
+.
+
+BCILAB on Octave ?
+
+.
+.
+
+https://github.com/sccn/BCILAB/issues/36
+
+
+
+
+
