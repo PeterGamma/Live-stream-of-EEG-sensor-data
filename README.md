@@ -165,7 +165,17 @@ BCILAB on Octave ?
 
 https://github.com/sccn/BCILAB/issues/36
 
+.
+.
 
+How to Run MATLAB Code in Octave
 
+.
+.
+
+https://itstillworks.com/12562105/how-to-run-matlab-code-in-octave
+
+.
+.
 
 
