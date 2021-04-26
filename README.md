@@ -178,4 +178,16 @@ https://itstillworks.com/12562105/how-to-run-matlab-code-in-octave
 .
 .
 
+Live-stream of sensor data from Mind Monitor app to Python: 
+
+.
+.
+
+https://mind-monitor.com/forums/viewtopic.php?f=15&t=1597
+
+.
+.
+
+Scripts kindly made available by Mind Monitor developer James Clutterbuck 
+
 
