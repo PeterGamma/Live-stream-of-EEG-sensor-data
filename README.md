@@ -1,11 +1,11 @@
-Greentek EEG Cap & sound card EEG devices:
+1. Greentek EEG Cap & sound card EEG devices:
 
 https://openbci.com/forum/index.php?p=/discussion/comment/12696#Comment_12696
 
 .
 .
 
-TGAM Modul 
+2. TGAM Modul 
 
 .
 .
@@ -15,7 +15,7 @@ https://de.aliexpress.com/item/32999922405.html?spm=a2g0o.productlist.0.0.1fab34
 .
 .
 
-Validation of TGAM modules:
+3. Validation of TGAM modules:
 
 .
 .
@@ -25,7 +25,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6630628/
 .
 .
 
-TGAM modues with Bluetooth Android App and Bluesoleil "with this kit you can make a wear BCI device yourself":
+4. TGAM modues with Bluetooth Android App and Bluesoleil "with this kit you can make a wear BCI device yourself":
 
 .
 .
@@ -35,7 +35,7 @@ https://de.aliexpress.com/item/32606318948.html?spm=a2g0o.productlist.0.0.529214
 .
 .
 
-Bluesoleil Ubuntu (for instance for the Linux PinePhone):
+5. Bluesoleil Ubuntu (for instance for the Linux PinePhone):
 
 .
 .
@@ -47,7 +47,7 @@ http://www.bluesoleil.com/support/Intro.aspx?topic=BlueSoleil_Ubuntu_help
 .
 
 
-Alternative from Texas instruments for 8 - 32 Channels: ADS1299 Performance Demonstration Kit from Texas instruments:
+6. Alternative from Texas instruments for 8 - 32 Channels: ADS1299 Performance Demonstration Kit from Texas instruments:
 
 http://www.ti.com/tool/ADS1299EEGFE-PDK
 
@@ -66,14 +66,14 @@ The ADS1299 Performance Demonstration Kit is low-cost, it has an easy-to-use eva
 .
 .
 
-EEG data acquisition system 32 channels based on Raspberry Pi with relative power ratio and brain symmetry index features:
+7. EEG data acquisition system 32 channels based on Raspberry Pi with relative power ratio and brain symmetry index features:
 
 https://www.researchgate.net/publication/337896178_EEG_data_acquisition_system_32_channels_based_on_Raspberry_Pi_with_relative_power_ratio_and_brain_symmetry_index_features
 
 .
 .
 
-Use of the TI ADS1299 EEG Kit:
+8. Use of the TI ADS1299 EEG Kit:
 
 .
 .
@@ -84,7 +84,7 @@ https://e2e.ti.com/support/data-converters/f/73/p/940917/3476990#3476990
 .
 .
 
-Safety of the TI ADS1299 EEG board:
+9. Safety of the TI ADS1299 EEG board:
 
 .
 .
@@ -94,7 +94,7 @@ https://www.eevblog.com/forum/testgear/how-to-solve-the-ti-ads1299-eeg-demo-kit-
 .
 .
 
-The ADS1299 Kit contains the TI ADS1299 chip. Therefore, the data of the paper "comparison of Cyton with medical grade g.tec devices" should also apply to the  ADS1299 Kit:
+10. The ADS1299 Kit contains the TI ADS1299 chip. Therefore, the data of the paper "comparison of Cyton with medical grade g.tec devices" should also apply to the  ADS1299 Kit:
 
 .
 .
@@ -104,7 +104,7 @@ https://arxiv.org/pdf/1606.02438.pdf
 .
 .
 
-Muse headband lab streaming layer (LSL):
+11. Muse headband lab streaming layer (LSL):
 
 https://mind-monitor.com/forums/viewtopic.php?f=15&t=840
 
@@ -116,14 +116,14 @@ https://github.com/sccn/labstreaminglayer/issues/30
 .
 .
 
-EEGLAB running on a Pinephone?
+12. EEGLAB running on a Pinephone?
 
 https://forum.pine64.org/showthread.php?tid=10893
 
 .
 .
 
-OpenBCI, Brainflow and Linux Pinephone?:
+13. OpenBCI, Brainflow and Linux Pinephone?:
 
 .
 .
@@ -133,7 +133,7 @@ https://openbci.com/forum/index.php?p=/discussion/2692/does-the-openbci-software
 .
 .
 
-MUSE HEADBAND ALTERNATIVE:
+14. MUSE HEADBAND ALTERNATIVE:
 
 .
 .
@@ -158,7 +158,7 @@ https://www.aliexpress.com/item/4000244979554.html?spm=a2g0s.9042311.0.0.27424c4
 .
 .
 
-BCILAB on Octave ?
+15. BCILAB on Octave ?
 
 .
 .
@@ -168,7 +168,7 @@ https://github.com/sccn/BCILAB/issues/36
 .
 .
 
-How to Run MATLAB Code in Octave
+16. How to Run MATLAB Code in Octave
 
 .
 .
@@ -178,7 +178,7 @@ https://itstillworks.com/12562105/how-to-run-matlab-code-in-octave
 .
 .
 
-Live-stream of sensor data from Mind Monitor app to Python: 
+17. Live-stream of sensor data from Mind Monitor app to Python: 
 
 .
 .
