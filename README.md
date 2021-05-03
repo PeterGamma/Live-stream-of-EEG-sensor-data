@@ -178,7 +178,7 @@ https://itstillworks.com/12562105/how-to-run-matlab-code-in-octave
 .
 .
 
-17. Live-stream of sensor data from Mind Monitor app to Python scripts kindly made available by Mind Monitor developer James Clutterbuck) : 
+17. Live-stream of sensor data from Mind Monitor app to Python (scripts kindly made available by Mind Monitor developer James Clutterbuck): 
 
 .
 .
@@ -188,12 +188,17 @@ https://mind-monitor.com/forums/viewtopic.php?f=15&t=1597
 .
 .
 
-Scripts kindly made available by Mind Monitor developer James Clutterbuck 
+18. Mind Monitor Python OSC Examples:
 
 .
 .
 
-18 Collecting EEG Signals with a Raspberry PI and a MUSE 2 headset
+https://mind-monitor.com/forums/viewtopic.php?f=15&t=1600
+
+.
+.
+
+19 Collecting EEG Signals with a Raspberry PI and a MUSE 2 headset:
 
 .
 .
@@ -203,7 +208,7 @@ http://www.flaviofrohlich.org/thoughts/collecting-eeg-signals-with-a-raspberry-p
 .
 .
 
-19. muselsl list issue on Raspberry P
+19. muselsl list issue on Raspberry PI:
 
 .
 .
