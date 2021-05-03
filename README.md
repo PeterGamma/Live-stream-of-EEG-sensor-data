@@ -190,4 +190,12 @@ https://mind-monitor.com/forums/viewtopic.php?f=15&t=1597
 
 Scripts kindly made available by Mind Monitor developer James Clutterbuck 
 
+.
+.
 
+18 Collecting EEG Signals with a Raspberry PI and a MUSE 2 headset
+
+.
+.
+
+http://www.flaviofrohlich.org/thoughts/collecting-eeg-signals-with-a-raspberry-pi-and-a-muse-2-headset
