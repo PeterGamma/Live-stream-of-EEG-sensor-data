@@ -199,3 +199,16 @@ Scripts kindly made available by Mind Monitor developer James Clutterbuck
 .
 
 http://www.flaviofrohlich.org/thoughts/collecting-eeg-signals-with-a-raspberry-pi-and-a-muse-2-headset
+
+.
+.
+
+19. muselsl list issue on Raspberry P
+
+.
+.
+
+https://github.com/alexandrebarachant/muse-lsl/issues/137
+
+.
+.
