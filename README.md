@@ -198,7 +198,7 @@ https://mind-monitor.com/forums/viewtopic.php?f=15&t=1600
 .
 .
 
-19 Collecting EEG Signals with a Raspberry PI and a MUSE 2 headset (FLAVIO FROHLICH, PH.D Frohlich Lab) :
+19 Collecting EEG Signals with a Raspberry PI and a MUSE 2 headset (Flavio Frohlich, PH.D, FROHLICH LAB) :
 
 .
 .
