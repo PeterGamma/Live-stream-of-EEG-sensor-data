@@ -208,7 +208,7 @@ http://www.flaviofrohlich.org/thoughts/collecting-eeg-signals-with-a-raspberry-p
 .
 .
 
-19. muselsl list issue on Raspberry PI:
+19. muselsl list issue on Raspberry PI (Muse LSL- Alexandre barachant, PhD.)
 
 .
 .
