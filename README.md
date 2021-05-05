@@ -208,7 +208,7 @@ http://www.flaviofrohlich.org/thoughts/collecting-eeg-signals-with-a-raspberry-p
 .
 .
 
-19. muselsl list issue on Raspberry PI (Muse LSL- Alexandre barachant, PhD.)
+20. muselsl list issue on Raspberry PI (Muse LSL- Alexandre barachant, PhD.)
 
 .
 .
@@ -218,7 +218,7 @@ https://github.com/alexandrebarachant/muse-lsl/issues/137
 .
 .
 
-20.Issue with EEG Stream on Raspberry PI 4 (Flavio Frohlich, PH.D)
+21.Issue with EEG Stream on Raspberry PI 4 (Flavio Frohlich, PH.D)
 
 .
 .
