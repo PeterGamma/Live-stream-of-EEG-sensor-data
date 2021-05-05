@@ -217,3 +217,14 @@ https://github.com/alexandrebarachant/muse-lsl/issues/137
 
 .
 .
+
+20.Issue with EEG Stream on Raspberry PI 4 (Flavio Frohlich, PH.D)
+
+.
+.
+
+https://github.com/alexandrebarachant/muse-lsl/issues/140
+
+
+
+
