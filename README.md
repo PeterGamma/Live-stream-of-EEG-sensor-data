@@ -1,5 +1,8 @@
 1. Greentek EEG Cap & sound card EEG devices:
 
+.
+.
+
 https://openbci.com/forum/index.php?p=/discussion/comment/12696#Comment_12696
 
 .
@@ -49,17 +52,38 @@ http://www.bluesoleil.com/support/Intro.aspx?topic=BlueSoleil_Ubuntu_help
 
 6. Alternative from Texas instruments for 8 - 32 Channels: ADS1299 Performance Demonstration Kit from Texas instruments:
 
+.
+.
+
 http://www.ti.com/tool/ADS1299EEGFE-PDK
+
+.
+.
 
 https://www.youtube.com/watch?v=_LY4hHeG-Hs
 
+.
+.
+
 For a 8 channels EEG Data Aquisition System:
+
+.
+.
 
 https://www.researchgate.net/publication/325635924_Design_of_EEG_Data_Acquisition_System_based_on_Raspberry_Pi_3_for_Acute_Ischemic_Stroke_Identification
 
+.
+.
+
 For 32 channels EEG Data Aquisition System :
 
+.
+.
+
 https://www.researchgate.net/publication/332321992_Development_of_Electroencephalography_EEG_Data_Acquisition_System_based_on_FPGA_PYNQ
+
+.
+.
 
 The ADS1299 Performance Demonstration Kit is low-cost, it has an easy-to-use evaluation software for Microsoft Windows, and it can be interfaced to MATLAB.
 
@@ -67,6 +91,9 @@ The ADS1299 Performance Demonstration Kit is low-cost, it has an easy-to-use eva
 .
 
 7. EEG data acquisition system 32 channels based on Raspberry Pi with relative power ratio and brain symmetry index features:
+
+.
+.
 
 https://www.researchgate.net/publication/337896178_EEG_data_acquisition_system_32_channels_based_on_Raspberry_Pi_with_relative_power_ratio_and_brain_symmetry_index_features
 
@@ -106,6 +133,9 @@ https://arxiv.org/pdf/1606.02438.pdf
 
 11. Muse headband lab streaming layer (LSL):
 
+.
+.
+
 https://mind-monitor.com/forums/viewtopic.php?f=15&t=840
 
 .
@@ -117,6 +147,9 @@ https://github.com/sccn/labstreaminglayer/issues/30
 .
 
 12. EEGLAB running on a Pinephone?
+
+.
+.
 
 https://forum.pine64.org/showthread.php?tid=10893
 
@@ -138,7 +171,7 @@ https://openbci.com/forum/index.php?p=/discussion/2692/does-the-openbci-software
 .
 .
 
-1. OpenBCI compatible EEG module:
+a). OpenBCI compatible EEG module:
 
 .
 .
@@ -148,7 +181,7 @@ https://de.aliexpress.com/item/4000244594585.html?spm=a2g0s.9042311.0.0.27424c4d
 .
 .
 
-2. OpenBCI compatible EEG Headband:
+b) OpenBCI compatible EEG Headband:
 
 .
 .
