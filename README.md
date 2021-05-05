@@ -246,7 +246,8 @@ See the full list at:
 .
 .
 
-https://github.com/sccn/labstreaminglayer/wiki/SupportedDevices.wiki.
+https://labstreaminglayer.readthedocs.io/info/supported_devices.html
+
 
 
 
