@@ -253,6 +253,9 @@ https://labstreaminglayer.readthedocs.io/info/supported_devices.html
 
 To connect to Neurofeedbacklab, LabStreamingLayer is required. For LabStreamingLayer support for the InteraXon Muse MU-01 - Muse - Released 2014, the Muse SDK is required. The Muse SDK is not freely available anymore, but only available for a selected group of people. This has been discussed here:
 
+.
+.
+
 https://github.com/sccn/labstreaminglayer/issues/30
 
 
