@@ -229,11 +229,29 @@ https://github.com/alexandrebarachant/muse-lsl/issues/140
 .
 .
 
-22. NeuroFeedbackLab: Stream EEG data in real time and process it using advanced analysis methods (Arnaud Delorme, PhD.)
+22. Neurofeedbacklab: Stream EEG data in real time and process it using advanced analysis methods (Arnaud Delorme, PhD.)
 
 .
 .
 
-https://www.youtube.com/watch?v=Mx3kf1MpAns
+https://github.com/arnodelorme/neurofeedbacklab
+
+.
+.
+
+Hardware requirements: Any EEG system supported by LSL (this includes BIOSEMI, EGI, Neuroscan, Brainproducts, Emotiv, Cognionics, Enobio, Muse etc...)
+
+See the full list at:
+
+.
+.
+
+https://github.com/sccn/labstreaminglayer/wiki/SupportedDevices.wiki.
+
+
+
+
+
+
 
 
