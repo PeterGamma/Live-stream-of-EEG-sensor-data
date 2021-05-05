@@ -239,7 +239,7 @@ https://github.com/arnodelorme/neurofeedbacklab
 .
 .
 
-Hardware requirements: Any EEG system supported by LSL (this includes BIOSEMI, EGI, Neuroscan, Brainproducts, Emotiv, Cognionics, Enobio, Muse etc...)
+Hardware requirements for Neurofeedbacklab: Any EEG system supported by LSL (this includes BIOSEMI, EGI, Neuroscan, Brainproducts, Emotiv, Cognionics, Enobio, Muse etc...)
 
 See the full list at:
 
