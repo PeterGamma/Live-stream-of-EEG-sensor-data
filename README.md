@@ -146,16 +146,6 @@ https://github.com/sccn/labstreaminglayer/issues/30
 .
 .
 
-12. EEGLAB running on a Pinephone?
-
-.
-.
-
-https://forum.pine64.org/showthread.php?tid=10893
-
-.
-.
-
 13. OpenBCI, Brainflow and Linux Pinephone?:
 
 .
@@ -191,7 +181,7 @@ https://www.aliexpress.com/item/4000244979554.html?spm=a2g0s.9042311.0.0.27424c4
 .
 .
 
-15. BCILAB on Octave ?
+15. BCILAB on Octave?
 
 .
 .
@@ -290,11 +280,4 @@ To connect to Neurofeedbacklab, LabStreamingLayer is required. For LabStreamingL
 .
 
 https://github.com/sccn/labstreaminglayer/issues/30
-
-
-
-
-
-
-
 
