@@ -281,3 +281,14 @@ To connect to Neurofeedbacklab, LabStreamingLayer is required. For LabStreamingL
 
 https://github.com/sccn/labstreaminglayer/issues/30
 
+
+.
+.
+
+23. Adafruit already published a blog about «Recording Brainwaves with a Raspberry PI on 
+May 28, 2018 AT 6:00 pm:
+
+.
+.
+
+https://blog.adafruit.com/2018/05/28/recording-brainwaves-with-a-raspberry-pi/
