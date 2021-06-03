@@ -293,6 +293,9 @@ May 28, 2018 AT 6:00 pm:
 
 https://blog.adafruit.com/2018/05/28/recording-brainwaves-with-a-raspberry-pi/
 
+.
+.
+
 
 24. Discontinued, the rest of what I found out is published on my blog:
 
