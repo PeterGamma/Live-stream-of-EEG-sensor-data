@@ -297,7 +297,7 @@ https://blog.adafruit.com/2018/05/28/recording-brainwaves-with-a-raspberry-pi/
 .
 
 
-24. Discontinued, the rest of what I found out is published on my blog:
+24. This thread only contains readme files, and is discontinued. The rest of what could be found regarding this subject can be found on my blog page Peter Gamma:
 
 .
 .
